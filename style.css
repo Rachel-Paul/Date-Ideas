@@ -4,8 +4,13 @@ body {
     padding: 20px 10px 30px 10px;
 }
 
+h1 {
+    color: rgb(73, 73, 73); 
+}
+
 h2 {
     color: rgb(17, 63, 66);
+    font-weight: 200;
 
 }
 
@@ -35,6 +40,7 @@ ul {
     border-radius: 30px 20px;
     box-shadow: -5px 14px 90px rgb(204, 170, 108);
 }
+
 
 
 
