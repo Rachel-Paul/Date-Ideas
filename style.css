@@ -8,6 +8,10 @@ h2 {
 
 }
 
+h1 {
+    font-weight:400;
+}
+
 
 
 a {
@@ -35,5 +39,6 @@ ul {
     border-radius: 30px 20px;
     box-shadow: -5px 14px 90px rgb(204, 170, 108);
 }
+
 
 
