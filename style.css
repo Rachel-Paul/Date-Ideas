@@ -4,12 +4,12 @@ body {
 }
 
 h2 {
-    font-weight:lighter;
+    font-weight: lighter;
 
 }
 
 h1 {
-    font-weight:200;
+    font-weight: 200;
 }
 
 
@@ -39,6 +39,7 @@ ul {
     border-radius: 30px 20px;
     box-shadow: -5px 14px 90px rgb(204, 170, 108);
 }
+
 
 
 
